@@ -1,2 +1,2 @@
-# Mailng-Client-Using-Python
+# Mailng-Client-Python
 Python Script to send emails.
